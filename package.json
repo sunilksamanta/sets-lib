@@ -1,6 +1,6 @@
 {
   "name": "sets-lib",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "workspaces": [
     "packages/*"
