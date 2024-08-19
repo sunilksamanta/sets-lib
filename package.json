@@ -1,0 +1,22 @@
+{
+  "name": "sets-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "lint": "lerna run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.4.1",
+    "lerna": "^8.1.8",
+    "typescript": "^5.5.4"
+  }
+}

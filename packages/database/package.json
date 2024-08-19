@@ -1,0 +1,19 @@
+{
+  "name": "@sets/database",
+  "version": "1.0.0",
+  "description": "Database package for @sets",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint 'src/**/*.ts'"
+  },
+  "keywords": ["database", "sets"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
