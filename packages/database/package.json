@@ -1,6 +1,6 @@
 {
   "name": "@sets/database",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Database package for @sets",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
