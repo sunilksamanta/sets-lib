@@ -17,5 +17,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.5.4"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "5b69396ad4fa2fdc2700bd5b7c8229fd12f17532"
 }
