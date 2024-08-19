@@ -1,6 +1,6 @@
 {
   "name": "@sets/drive",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Drive package for @sets",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
